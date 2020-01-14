@@ -1,3 +1,11 @@
-# projects
+### Projetos
 
-Estou atualizando a lista de projetos e trabalhos aqui.
+## Domesticas Dlar
+  #tecnologias utilizadas
+  - laravel
+  - wordpress
+  - mysql
+  - git
+  
+  https://domesticasdlar.com
+  
